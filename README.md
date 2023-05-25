@@ -3,8 +3,7 @@ Searching Image based on similarity index, Similarity model is based on DeepImag
 					
 		Image Search Project Use Cases			
 					
-Case No	Case Description	Image Input	Matched/Not Matched Screenshot	Matched Image 	"Similarity
-Percentage"
+
 
 
 
